@@ -1,6 +1,6 @@
-#MUSIC STORE ANALYSIS ON POSTGRESQL
+# MUSIC STORE ANALYSIS ON POSTGRESQL
 
-#Objective:-
+# Objective:-
 In this project I have examined the dataset with SQL and help the store understand its business growth.
 
 1. Who is the senior most employee, find name and job title?
@@ -15,6 +15,13 @@ In this project I have examined the dataset with SQL and help the store understa
 10. Find how much amount spent by each customer on artists? Write a query to return customer name, artist name and total spent.
 11. Write a query that determines the customer that has spent the most on music for each country. Write a query that returns the country along with the top customer and how much they spent. For countries where the top amount spent is shared, provide all customers who spent this amount.
 
-#Tech Stack Used
+# Tech Stack Used
+
 ![68747470733a2f2f696d672e69636f6e73382e636f6d2f6172636164652f3235362f73716c2e706e67](https://github.com/user-attachments/assets/527a05a7-5185-4602-9696-7064f5b501b6)
 ![68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3235362f6d6963726f736f66742d657863656c2d323031392e706e67](https://github.com/user-attachments/assets/cd03b3a0-ea36-4c3d-92fb-1132da45dbe9)
+
+# SCHEMA
+
+<img width="594" alt="schema_diagram" src="https://github.com/user-attachments/assets/d7612776-810f-427c-872a-d319645b9e3f">
+
+
